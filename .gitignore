@@ -1,0 +1,12 @@
+__pycache__/
+.idea/
+cache/
+config/
+notebooks/
+.ipynb_checkpoints/
+src/test*.py
+output/
+.mypy_cache/
+backup/
+.Rproj.user
+images/
